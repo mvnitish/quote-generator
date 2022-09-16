@@ -1,2 +1,2 @@
 ﻿# quote-generator
- Displays random from an API and able to tweet it.
+ Displays random quote from an API and able to tweet it.
